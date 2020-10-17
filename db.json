@@ -1,0 +1,37 @@
+{
+    "posts": [
+      {
+        "user": {
+            "username": "Mariia",
+            "id": "5d999bd412c332737c9b1ad1"
+        },
+        "likes": 586,
+        "author": "Joel Spolsky",
+        "title": "The Joel Test: 12 Steps to Better Code",
+        "url": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
+        "id": "5d999c3012c332737c9b1ad2"
+      },
+      {
+        "user": {
+            "username": "Mariia",
+            "id": "5d999bd412c332737c9b1ad1"
+        },
+        "likes": 577,
+        "author": "Edsger W. Dijkstra",
+        "title": "Go To Statement Considered Harmful",
+        "url": "http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html",
+        "id": "5d999d8c12c332737c9b1ad3"
+      },
+      {
+        "user": {
+            "username": "Mariia",
+            "id": "5d999bd412c332737c9b1ad1"
+        },
+        "likes": 539,
+        "author": "Edsger W. Dijkstra",
+        "title": "Canonical string reduction",
+        "url": "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD808.html",
+        "id": "5d999dc412c332737c9b1ad4"
+      }
+    ]
+}
