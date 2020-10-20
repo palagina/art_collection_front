@@ -3,10 +3,10 @@
 <p>Deployed <a href="https://article-collection-mp.herokuapp.com/">HERE</a></p>
 <p>Backend <a href="https://github.com/palagina/art_collection_back">HERE</a></p>
 
-<p>A single page CRUD React application that use REST APIs built with Node.js.</p>
+<p>A single page CRUD React application that uses REST APIs built with Node.js.</p>
 <p>What is used: React, React Router, React hooks, Redux, Redux Thunk, Node, Axios, MongoDB, Mongoose, Express, Bcrypt, JSON server, CORS, ESLint, Jest, Cypress, Mongo-mock, Supertest, Cross-env, JSON Web Token, Prop-types.
 </p>
-<img src="/img/preview.jpg" width="500">
+<img src="https://github.com/palagina/art_collection_back/blob/master/img/preview.jpg" width="500">
 
 <h3>Login</h3>
 <p>Login to try the app can be done with the username and password indicated on the login page.
